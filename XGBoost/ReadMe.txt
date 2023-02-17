@@ -1,6 +1,6 @@
 As you go through this project, please keep in mind that it is currently a work in progress and not production ready. 
 
-For this project, an Gradient Boosting machine learning model was created (XGBoost) and trained using Canada's public sector salary information. The model was then deployed using Flask (HTML + CSS) with the goal to allow users to new feature information into the model to output a predicted salary. 
+For this project, a Gradient Boosting machine learning model was created (XGBoost) and trained using Canada's public sector salary information. The model was then deployed using Flask (HTML + CSS) with the goal to allow users to new feature information into the model to output a predicted salary. 
 
 The model has been trained and is working as expected. 
 
