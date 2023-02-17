@@ -5,5 +5,6 @@ For this project, an Gradient Boosting machine learning model was created (XGBoo
 The model has been trained and is working as expected. 
 
 There are still a few updates to workout for the deployment step: 
+- Need to fix the unicode error.
 - To train the model, we convert categorical variables into numeric values. The Flask app currently asks for these inputs in their original numeric form. This needs to be updated to allow users to input the categorical values via a dropdown menu and have the app convert these values into numeric on the backend.
 - Visualization updates via CSS.
